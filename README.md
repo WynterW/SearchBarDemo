@@ -33,8 +33,6 @@
 ```obj
     self.definesPresentationContext = YES;
 ```
-效果如下：
-![问题1解决方法.gif](http://upload-images.jianshu.io/upload_images/937490-20109807de97bcef.gif?imageMogr2/auto-orient/strip)
 
 ### 问题2：在设置导航栏为不透明时，点击搜索时searchBar偏移出屏幕
 
@@ -47,8 +45,6 @@
 ```obj
     self.extendedLayoutIncludesOpaqueBars = YES;
 ```
-效果如下：
-![问题3解决办法.gif](http://upload-images.jianshu.io/upload_images/937490-d6a8c588ffdf91e7.gif?imageMogr2/auto-orient/strip)
 
 ### 属性介绍：
 
